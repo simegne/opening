@@ -1,1 +1,2 @@
 # opening
+simegne wordofa
